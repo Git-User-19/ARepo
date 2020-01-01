@@ -11,7 +11,5 @@
 echo "This is just for testing";
 
 echo "123456";
-
-echo "This is new to file4";
 //===========================
 ?>
